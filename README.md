@@ -68,7 +68,7 @@ Special Cases
 
 Day Codes:
 
-    DayCode	 |     Day
+    DayCode	     |     Day
     ----------------------
       0	     |  Saturday
       1	     |  Sunday
@@ -82,16 +82,16 @@ Here are the month codes used in the program:
 
     Month	      |  Month Code
     ---------------------------
-    January	    |     1
+    January	      |     1
     February	  |     4
     March	      |     4
     April	      |     0
-    May	        |     2
+    May	          |     2
     June	      |     5
     July	      |     0
-    August	    |     3
+    August	      |     3
     September	  |     6
-    October	    |     1
+    October	      |     1
     November	  |     4
     December	  |     6
 
