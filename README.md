@@ -80,7 +80,7 @@ Day Codes:
 
 Here are the month codes used in the program:
 
-    Month	      |      Month Code
+    Month	          |   Month Code
     ---------------------------
     January	      |     1
     February	  |     4
@@ -97,7 +97,7 @@ Here are the month codes used in the program:
 
 The year code in the program is determined based on the century part of the year and is used in the calculation of the day of the week. Here are the year codes for different centuries:
 
-    Century (yfp)	  |      Year Code
+    Century (yfp)	      |   Year Code
     ------------------------------
     1600-1699	      |     6
     1700-1799	      |     4
