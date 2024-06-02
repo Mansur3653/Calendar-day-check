@@ -92,8 +92,8 @@ Here are the month codes used in the program:
     August	          |     3
     September	  |     6
     October	          |     1
-    November	      |     4
-    December	      |     6
+    November	  |     4
+    December	  |     6
 
 The year code in the program is determined based on the century part of the year and is used in the calculation of the day of the week. Here are the year codes for different centuries:
 
